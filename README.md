@@ -5,6 +5,7 @@ Some code dists used in projects
 Front-end:
 
 * [TailwindCSS](https://tailwindcss.com/) 
+* [Componentd](https://tailwindcomponents.com/)
 * [AlpineJS](https://github.com/alpinejs/alpine) - Nice with Tailwind
 * [Sass](https://sass-lang.com/)
 
