@@ -9,6 +9,13 @@ Front-end:
 * [AlpineJS](https://github.com/alpinejs/alpine) - Nice with Tailwind
 * [Sass](https://sass-lang.com/)
 
+Backend:
+* [Symfony](https://symfony.com)
+
+Progressive web applications.
+Example:
+* [Android](https://play.google.com/store/apps/details?id=net.routeandgo.www)
+
 Used in:
 
 * [RouteAndGo](https://www.routeandgo.net/)
