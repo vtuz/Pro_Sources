@@ -18,4 +18,5 @@ Example:
 
 Used in:
 
-* [RouteAndGo](https://www.routeandgo.net/)
+* [RouteAndGo](https://www.routeandgo.net)
+* [BestRealty](https://bestrealty.com.ua)
