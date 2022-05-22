@@ -24,3 +24,8 @@ Used in:
 
 List-making Dashboard:
 * [Trello](https://trello.com/bestrealtycomua)
+
+Legacy projects which are moving to the new ones:
+[gdn](http://gdn.com.ua)
+[Novostroyky Vyshhorod](http://zirka-dnipra.com.ua)
+[realy zp](http://realt.zp.ua)
