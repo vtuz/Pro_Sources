@@ -26,7 +26,11 @@ List-making Dashboard:
 * [Trello](https://trello.com/bestrealtycomua)
 
 Legacy projects which are moving to the new ones:
-[gdn](http://gdn.com.ua)
-[Novostroyky Vyshhorod](http://zirka-dnipra.com.ua)
-[realy zp](http://realt.zp.ua)
-[apartment renta](htttp://dobova.com.ua)
+* [gdn](http://gdn.com.ua)
+* [Novostroyky Vyshhorod](http://zirka-dnipra.com.ua)
+* [realy zp](http://realt.zp.ua)
+* [apartment renta](htttp://dobova.com.ua)
+* [ZK Solonka](gksolonka.lviv.ua)
+* [Pro Rialtor](pro-rieltor.com.ua)
+* [Metr kvadratnyi](metr2.kiev.ua)
+* [Lvivskyi kvartal](kvartal.lviv.ua)
