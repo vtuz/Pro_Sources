@@ -34,3 +34,4 @@ Legacy projects which are moving to the new ones:
 * [Pro Rialtor](http://pro-rieltor.com.ua)
 * [Metr kvadratnyi](http://metr2.kiev.ua)
 * [Lvivskyi kvartal](http://kvartal.lviv.ua)
+* [Aparments rent in Lviv](https://arenda-kvartir.lviv.ua/)
