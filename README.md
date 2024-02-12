@@ -26,6 +26,9 @@ List-making Dashboard:
 * [Trello](https://trello.com/bestrealtycomua)
 
 Legacy projects which are moving to the new ones:
+* [Zhk Kazka](https://jk-kazka.com.ua/)
+* [Garmonia Zhki](https://jk-garmonia.com.ua/)
+* [Berezhansky Zhk](https://berezhanskiy.com.ua/)
 * [gdn](http://gdn.com.ua)
 * [Novostroyky Vyshhorod](http://zirka-dnipra.com.ua)
 * [realy zp](http://realt.zp.ua)
