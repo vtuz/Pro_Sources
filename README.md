@@ -8,6 +8,7 @@ Front-end:
 * [Componentd](https://tailwindcomponents.com/)
 * [AlpineJS](https://github.com/alpinejs/alpine) - Nice with Tailwind
 * [Sass](https://sass-lang.com/)
+* [Wysi](https://github.com/mdbassit/Wysi) - simple wysiwyg, forked btw
 
 Backend:
 * [Symfony](https://symfony.com)
@@ -20,6 +21,7 @@ Used in:
 
 * [RouteAndGo](https://www.routeandgo.net)
 * [BestRealty](https://bestrealty.com.ua)
+* [Realt.UA](https://realt.ua)
 
 
 List-making Dashboard:
